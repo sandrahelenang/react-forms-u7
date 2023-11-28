@@ -1,0 +1,19 @@
+// Fonts
+$font-family: "Ubuntu", sans-serif;
+
+// Colors
+$white: #fff;
+$gray: #525252;
+$error: #d14167;
+
+// Background
+
+$container-bg: linear-gradient(
+  to right, 
+ #171516, #181517, #191519, #19151b, #19151d, #19151f, #181522, #171524, #171527, #17152a, #17152d, #171530);
+$main-bg: linear-gradient(
+to left,  #171540, #17153d, #17153a, #171537, #171534, #171534, #171534, #171534, #171537, #17153a, #17153d, #171540);
+
+// Shadows
+$main-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+  rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
